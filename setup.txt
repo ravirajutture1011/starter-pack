@@ -1,0 +1,5 @@
+1. go to parent directory -> npm I
+2. go to /frontend -> npm I
+3. terminal 1 -> npm run dev
+4. terminal 2 -> npm run dev
+5. Booooommm!!!!!!!!!!! 
